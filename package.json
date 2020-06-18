@@ -1,0 +1,14 @@
+{
+  "name": "math-circle",
+  "version": "1.0.0",
+  "description": "just a circle CI test code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "israel",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
